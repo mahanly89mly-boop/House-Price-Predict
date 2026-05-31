@@ -37,7 +37,9 @@ The model is trained using **Linear Regression** to estimate house prices from C
 - `Code/` : Includes the main code for data processing and model training
 - `test/` : Contains the test file for model evaluation
 
-### !!!The prices of the houses are completely real. These prices are on the Diwar site using regional information that was conducted in May 2026.!!!
+## !!!The prices of the houses are completely real
+These prices are on the Divar site using regional information that was conducted in May 2026.!!!
+# https://divar.ir
 
 ## Technologies Used
 - Python
