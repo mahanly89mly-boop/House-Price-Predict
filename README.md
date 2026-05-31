@@ -38,7 +38,7 @@ The model is trained using **Linear Regression** to estimate house prices from C
 - `test/` : Contains the test file for model evaluation
 
 ## !!!The prices of the houses are completely real
-These prices are on the Divar site using regional information that was conducted in May 2026.!!!
+These prices are on the Divar site with a search for house prices in Tehran conducted in May 2026.!!!
 # https://divar.ir
 
 ## Technologies Used
