@@ -1,9 +1,9 @@
-# House Price Prediction
+#🏠💵 House Price Prediction
 
-### !!!This project is not yet completed and is ongoing.!!!
+
 
 This project is a machine learning-based house price prediction system built using **NumPy**, **Pandas**, and **Scikit-learn**.  
-The model is trained using **Linear Regression** to estimate house prices from CSV dataset files.
+The model is trained using **Linear Regression and Xgboost** to estimate house prices from CSV dataset files.
 
 ## Project Workflow
 1. **Load Data**  
@@ -33,13 +33,10 @@ The model is trained using **Linear Regression** to estimate house prices from C
    A separate test file is used to evaluate the model and check its predictions.
 
 ## Project Structure
-- `data/` : Contains the CSV dataset files
-- `Code/` : Includes the main code for data processing and model training
-- `test/` : Contains the test file for model evaluation
+- `housing_data.csv/` : Contains the CSV dataset files
+- `House_Price_Predict.ipynb/` : Includes the main code for data processing and model training
 
-## !!!The prices of the houses are completely real
-These prices are on the Divar site with a search for house prices in Tehran conducted in May 2026.!!!
-# https://divar.ir
+
 
 ## Technologies Used
 - Python
